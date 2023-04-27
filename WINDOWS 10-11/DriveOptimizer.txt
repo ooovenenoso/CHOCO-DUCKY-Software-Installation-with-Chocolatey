@@ -1,0 +1,16 @@
+REM DriveOptimizer
+REM Author: ooovenenoso
+REM This script automates tasks for optimizing the hard drive on a Windows 10 or 11 computer.
+DELAY 2000
+GUI x
+DELAY 2000
+STRING a
+DELAY 2000
+LEFTARROW
+DELAY 2000
+ENTER
+DELAY 4000
+STRING Optimize-Volume -DriveLetter 'C' -Defrag -Verbose
+DELAY 2000
+ENTER
+REM The above script waits for a second, opens the Start menu, selects 'Apps and Features' option, and inputs a command to optimize the 'C' drive by defragmenting it.
