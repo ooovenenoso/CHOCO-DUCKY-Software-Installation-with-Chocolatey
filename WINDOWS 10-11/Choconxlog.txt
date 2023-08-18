@@ -1,6 +1,0 @@
-nxlog - A multi-platform universal log collector and forwarder
-
-By: james.crowley petemounce kurtglastetter mykola.shestopal BMNXlog gabor.horvath
-Tags: nxlog syslog admin
-
-choco install nxlog
