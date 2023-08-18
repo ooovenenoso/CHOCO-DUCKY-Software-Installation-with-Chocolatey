@@ -1,0 +1,6 @@
+A GUI for Chocolatey
+
+By: gep13 RichiCoder chocolatey
+Tags: chocolateygui chocolatey admin foss
+
+choco install chocolateygui

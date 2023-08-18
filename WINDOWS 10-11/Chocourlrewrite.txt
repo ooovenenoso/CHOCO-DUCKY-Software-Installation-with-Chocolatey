@@ -1,0 +1,6 @@
+Installs URL Rewrite for IIS
+
+By: bcc jochenjonc
+Tags: microsoft iis urlrewrite url rewrite admin
+
+choco install urlrewrite

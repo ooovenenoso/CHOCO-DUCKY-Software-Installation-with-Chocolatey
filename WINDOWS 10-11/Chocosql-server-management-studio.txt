@@ -1,0 +1,6 @@
+SQL Server Management Studio (SSMS) is an integrated environment for accessing, configuring, managing, administering, and developing all c... Keep Reading
+
+By: flcdrg
+Tags: sql server management studio ssms admin
+
+choco install sql-server-management-studio

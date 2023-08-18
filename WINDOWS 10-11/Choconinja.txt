@@ -1,0 +1,6 @@
+a small build system with a focus on speed
+
+By: robo joachim.schmidt557
+Tags: ninja build make cmake gyp
+
+choco install ninja
