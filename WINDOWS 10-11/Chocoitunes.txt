@@ -1,6 +1,0 @@
-iTunes is a free app that lets you organize and enjoy the music, movies, and TV shows you already have
-
-By: mwrock albiabia chocolatey-community AdmiringWorm
-Tags: itunes admin freeware cross-platform
-
-choco install itunes
