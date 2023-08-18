@@ -1,6 +1,0 @@
-AMD Ryzen™ chipset drivers for both socket AM4 and TR4.
-
-By: dgatto
-Tags: amd ryzen threadripper chipset am4 am5 tr4 trx4 x670 x670e b650 b650e b350 a320 x370 x399 b450 x470 x570 b550 a520 trx40 wrx80
-
-choco install amd-ryzen-chipset
