@@ -1,6 +1,0 @@
-Run-time components that are required to run C++ applications that are built by using Visual Studio 2010
-
-By: MarkJohnson chocolatey-community jberezanski
-Tags: microsoft visual c++ redistributable 2010 studio vcredist2010 freeware admin
-
-choco install vcredist2010
