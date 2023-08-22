@@ -1,4 +1,3 @@
-
 REM Chocochocolatey-compatibility.extension
 REM Author: ooovenenoso
 DELAY 2000
