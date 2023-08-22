@@ -1,4 +1,3 @@
-
 REM Chocochocolatey-windowsupdate.extension
 REM Author: ooovenenoso
 DELAY 2000
