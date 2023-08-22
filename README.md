@@ -1,6 +1,6 @@
 # Ducky Scripts for Software Installation with Chocolatey
 
-![](https://github.com/ooovenenoso/GOODUSB/blob/main/Cyber%20Ducky.png?raw=true)
+![](https://raw.githubusercontent.com/ooovenenoso/GOOD-DUCKY/main/Cyber%20Ducky.png)
 
 ## Description:
 These scripts are designed to automate the installation process for various programs using the Chocolatey package manager on Windows computers. The scripts utilize Ducky Script language and are intended for use with USB Rubber Ducky devices or other Ducky Script compatible devices.
